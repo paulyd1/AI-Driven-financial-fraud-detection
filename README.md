@@ -104,9 +104,9 @@ If the dataset is not included in this repository, download it from the link abo
 
 ## 👤 Author
 
-Name: Paul/1147256 
-Course: AI CM763 
-Date: 1/6/2026
+- Name: Paul/1147256 
+- Course: AI CM763 
+- Date: 1/6/2026
 
 
 
